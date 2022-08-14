@@ -14,6 +14,10 @@ model.
   where devices are interconnected, and people have started to rely on this technologies in their daily lives.
   
   #### How do I approach a problem as a computer scientist?
-  - 
+  - My approach to solve problems as a computer scientist is to understand all the requirements, provides suggestions on how to meet them,
+  and then working in iterations to reach the end goal. In each of these iterations I try to come up with a working product, where I can
+  build all the functionality over time.
 
   #### What are my ethical responsibilities to the end user and the organization?
+  - My ethical responsibilities to the end user and the organization is to create a product that meets their requirements, respect their 
+  privacy and confidentiality, not create a malicious product, and to comply with all laws and professional codes of ethics.
